@@ -1,16 +1,11 @@
-# React + Vite
+#  DevPulse — Real-Time Infrastructure Performance Monitor (React)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+DevPulse is an interactive cloud network metric virtualization dashboard engineered using React. It manages fluid tracking states across array collections, combining dynamic asynchronous interval scheduling algorithms  to update mock system resources alongside optimized query filter fields without performance overhead stutters.
 
-Currently, two official plugins are available:
+##  System Highlights Tested
+*  **Asynchronous Scheduling Loops:** Integrates custom runtime window interval loops safely within active rendering lifecycles, ensuring proper interval cleanup configurations to mitigate memory leaking.
+*  **Derived State Arrays:** Computes global cluster statistics and filters data objects dynamically on the fly within render loops without writing redundant hook states.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+##  Running Instructions
+1. Download packages: `npm install`
+2. Run environment: `npm run dev`
