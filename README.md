@@ -14,7 +14,7 @@ DevPulse is an interactive cloud network metric virtualization dashboard enginee
 *  **Derived State Arrays:** Computes global cluster statistics and filters data objects dynamically on the fly within render loops without writing redundant hook states.
 
 ##  Running Instructions
-
+------------------------------------------------------------------------------
 
 1. Download packages: `npm install`
 2. Run environment: `npm run dev`
