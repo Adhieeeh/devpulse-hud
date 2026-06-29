@@ -5,7 +5,7 @@ DevPulse is an interactive cloud network metric virtualization dashboard enginee
 
 ## Preview
 -----------------------------------------------------------------------------
-!
+![]
 
 ##  System Highlights Tested
 *  **Asynchronous Scheduling Loops:** Integrates custom runtime window interval loops safely within active rendering lifecycles, ensuring proper interval cleanup configurations to mitigate memory leaking.
