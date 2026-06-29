@@ -1,5 +1,6 @@
 #  DevPulse — Real-Time Infrastructure Performance Monitor (React)
 
+
 DevPulse is an interactive cloud network metric virtualization dashboard engineered using React. It manages fluid tracking states across array collections, combining dynamic asynchronous interval scheduling algorithms  to update mock system resources alongside optimized query filter fields without performance overhead stutters.
 
 ##  System Highlights Tested
